@@ -6,7 +6,7 @@
 
 ## 1. 开始使用
 
-打开 `index.html` 后，网页会询问存档方式：
+打开 [https://songzhou-ling.github.io/obself/](https://songzhou-ling.github.io/obself/) 后，网页会询问存档方式：
 
 - **打开备份与恢复**：选择一个长期保留的本地文件夹，网页会在其中维护 `obself-backup.json`。
 - **保留本地存档**：数据仅保存在当前浏览器中。
